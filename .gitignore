@@ -30,8 +30,3 @@ Thumbs.db
 
 # Jupyter Lab workspace
 .lab/
-
-# Ignore data/output folders (optional)
-data/
-output/
-.ipynb_checkpoints/
