@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20the%20Introverts%20from%20the%20Extroverts/mlruns/683743730939363783/f64ca947e549403292a69d75d1886981/artifacts
+end_time: 1751697084183
+entry_point_name: ''
+experiment_id: '683743730939363783'
+lifecycle_stage: active
+run_id: f64ca947e549403292a69d75d1886981
+run_name: nervous-hawk-878
+run_uuid: f64ca947e549403292a69d75d1886981
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751697079505
+status: 3
+tags: []
+user_id: mshopov

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mshopov/Jupyter%20Lab%20Notebooks/Kaggle%20Competitions/Predict%20the%20Introverts%20from%20the%20Extroverts/mlruns/683743730939363783/246ea22de5b943a0bf92670db92fd876/artifacts
+end_time: 1751657768415
+entry_point_name: ''
+experiment_id: '683743730939363783'
+lifecycle_stage: active
+run_id: 246ea22de5b943a0bf92670db92fd876
+run_name: receptive-trout-88
+run_uuid: 246ea22de5b943a0bf92670db92fd876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751657302581
+status: 3
+tags: []
+user_id: mshopov
